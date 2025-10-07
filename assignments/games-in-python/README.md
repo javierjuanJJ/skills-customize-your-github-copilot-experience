@@ -1,19 +1,23 @@
 
-# 🎮 Hangman Game Challenge
 
-Build the classic word-guessing game using Python strings, loops, and user input.
+# 📘 Assignment: Hangman Game Challenge
 
-## � What You'll Build
+## 🎯 Objective
 
-Create a Hangman game where players guess letters to reveal a hidden word before running out of attempts.
+Construir el clásico juego del ahorcado en Python, practicando manipulación de cadenas, bucles, condicionales y selección aleatoria.
 
-**Skills practiced:** String manipulation, loops, conditionals, random selection
+## 📝 Tasks
 
-## ✅ Must Have's
+### 🛠️ Crear el juego del ahorcado
 
-Your game must:
-- Randomly select words from a predefined list
-- Accept letter guesses and show current progress (_ _ _ format)
-- Track incorrect guesses remaining
-- End when word is guessed or attempts exhausted
-- Display win/lose messages
+#### Description
+Desarrolla un programa en Python que permita al usuario jugar al ahorcado, adivinando letras para descubrir una palabra oculta antes de quedarse sin intentos.
+
+#### Requirements
+Completed program should:
+
+- Seleccionar aleatoriamente una palabra de una lista predefinida
+- Permitir al usuario ingresar letras y mostrar el progreso actual (formato _ _ _)
+- Llevar la cuenta de los intentos incorrectos restantes
+- Terminar el juego cuando la palabra se adivine o se agoten los intentos
+- Mostrar mensajes de victoria o derrota
